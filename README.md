@@ -207,17 +207,16 @@ Customer-Churn-Prediction/
 │   └── Customer_Churn_Prediction.ipynb
 │
 ├── images/
-│   ├── correlation_heatmap.png
+│   ├── class_distribution.png
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
-│   └── feature_importance.png
+│   └── Feature_Importance.png
 │
 ├── models/
 │   └── xgboost_model.pkl
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
